@@ -5,3 +5,5 @@ syntax on
 
 :set rnu
 
+let g:ale_linters = {'rust': ['analyzer']}
+
