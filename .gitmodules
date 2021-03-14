@@ -13,3 +13,24 @@
 [submodule "bundle/ale"]
 	path = bundle/ale
 	url = https://github.com/dense-analysis/ale.git
+[submodule "bundle/highlightedyank"]
+	path = bundle/highlightedyank
+	url = https://github.com/machakann/vim-highlightedyank.git
+[submodule "bundle/coc"]
+	path = bundle/coc
+	url = https://github.com/neoclide/coc.nvim.git
+[submodule "bundle/rust.vim"]
+	path = bundle/rust.vim
+	url = https://github.com/rust-lang/rust.vim.git
+[submodule "bundle/toml"]
+	path = bundle/toml
+	url = https://github.com/cespare/vim-toml.git
+[submodule "bundle/yaml"]
+	path = bundle/yaml
+	url = https://github.com/stephpy/vim-yaml.git
+[submodule "bundle/fish"]
+	path = bundle/fish
+	url = https://github.com/dag/vim-fish.git
+[submodule "bundle/clang-format"]
+	path = bundle/clang-format
+	url = https://github.com/rhysd/vim-clang-format.git
